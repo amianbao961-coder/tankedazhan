@@ -1,0 +1,13 @@
+# 系统与浏览器临时目录
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地测试浏览器配置（截图/调试用）
+.chrome-profile*/
+.edge-profile*/
+
+# 临时文件
+*.log
+*.tmp
+.write-test

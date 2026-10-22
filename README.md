@@ -8,9 +8,9 @@
 
 ## 在线试玩
 
-仓库根目录的 `index.html` 即完整游戏，**双击即可在浏览器中打开**，无需安装任何东西。
+在线玩：<https://amianbao961-coder.github.io/tankedazhan/>
 
-如果开启了 GitHub Pages（仓库 Settings → Pages → Source 选择 `main` 分支根目录），也可以直接在线玩。
+也可以下载仓库后直接双击 `index.html` 本地游玩，无需安装任何东西。
 
 ## 特性
 
